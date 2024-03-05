@@ -16,7 +16,7 @@
 * Works with service-meshes
     * Tested with [Istio](https://istio.io) including mTLS
     * Tested with [Linkerd2](https://github.com/openfaas-incubator/openfaas-linkerd2) including mTLS and traffic splitting with SMI
-
+* (changes)
 ## Deploy OpenFaaS
 
 ### 1) Install Community Edition (CE) with arkade

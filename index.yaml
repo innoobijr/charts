@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  openfaas:
+  - apiVersion: v2
+    created: "2024-03-05T22:28:19.631009742Z"
+    description: OpenFaaS - Serverless Functions Made Simple
+    digest: 7085e7cbb9e5d585540b1a3dcec45c8dde033cd5bf8d13435786807de8263280
+    home: https://www.openfaas.com
+    icon: https://raw.githubusercontent.com/openfaas/media/master/OpenFaaS_logo_stacked_opaque.png
+    keywords:
+    - serverless
+    - functions
+    - platform
+    - faas
+    maintainers:
+    - email: innoobi@cs.washington.edu
+      name: innoobi
+    name: openfaas
+    sources:
+    - https://github.com/innoobijr/faas
+    - https://github.com/innoobijr/faas-netes
+    type: application
+    urls:
+    - https://innoobijr.github.io/charts/openfaas-14.2.25.tgz
+    version: 14.2.25
+generated: "2024-03-05T22:28:19.626772901Z"
